@@ -1,2 +1,2 @@
 # MiSupositorio
-Axa se encuentra mi archivo README de la actividad
+Acá se encuentra mi archivo README de la actividad
