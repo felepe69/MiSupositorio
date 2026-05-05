@@ -39,4 +39,9 @@ PENSAMIENTO CRÍTICO
 
 / Documentación vs Código: sostengo esa opinion, demasiada documentacion se puede hacer demasiado tedioso para el que tenga que entender los cambios realizados(a no ser que sea neceario hacer una documentacion extensa) ya que el codigo debe de ser ituitivo ya sea por las variables descriptivas o que veas una funcion y entiendas enseguida que es lo que hace, ese codigo ya te dice que es lo que hace, aliviando el contenido de la documentacion.
 
-/ Dependencia de plataformas: 
+/ Dependencia de plataformas: depender de una plataforma de este tipo puede conllevar a que te puedan cobrar suscripciones o bloquear funciones para usuarios generales. Una alternativa directa de GitHub puede ser GitLab. No necesariamente porque mucha gente ya usa GitHub sin preocupaciones ni tantas limitantes.
+
+
+PROYECCIÓN FUTURA
+
+/ Integración con tu flujo de trabajo: 
