@@ -21,4 +21,4 @@ APLICACIÓN PRÁCTICA
 / Colaboración remota: la principal ventaja es que no importa en que parte del mundo estes, mientras tengas lo basico para conectarte a GitHub vas a poder trabajar con tus compañeros. Si vas a trabajar con personas de distintos paises el desafio podria recaer en la barrera del lenguaje y vas a tener que adaptarte al que se prefiera hablar(siendo el ingles por excelencia).
 No se si es mejor trabajar de este modo ya que hay un estudio en el que se detalla el proque el trabajador prefiere estar en una oficina que estar en su casa con todas las distracciones el estar en ella, pero por comodidad diria que es mas factible.
 
-/ Resolución de conflictos: 
+/ Resolución de conflictos: como habilidad tecnica deberia de entender como funciona Git en su completitud, el correcto uso de sus herramientas y una buena practica de "versionado". Como habilidad personal necesitaria una comunicacion clara en el equipo, ser empatico ya que alguno puede tener soluciones validas y ser responsable con el trabajo y con el equipo.
