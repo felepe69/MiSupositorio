@@ -22,7 +22,7 @@ APLICACIÓN PRÁCTICA
 No se si es mejor trabajar de este modo ya que hay un estudio en el que se detalla el proque el trabajador prefiere estar en una oficina que estar en su casa con todas las distracciones el estar en ella, pero por comodidad diria que es mas factible.
 
 / Resolución de conflictos: como habilidad tecnica deberia de entender como funciona Git en su completitud, el correcto uso de sus herramientas y una buena practica de "versionado". Como habilidad personal necesitaria una comunicacion clara en el equipo, ser empatico ya que alguno puede tener soluciones validas y ser responsable con el trabajo y con el equipo.
-
+hola
 
 REFLEXIÓN PERSONAL
 
