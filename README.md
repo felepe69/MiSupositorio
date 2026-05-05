@@ -16,9 +16,14 @@ Si, podria, ya que Git es un sistema que se ejecuta de manera local en tu comput
 
 APLICACIÓN PRÁCTICA
 
-/ Branches: Claramente es el hablarle a una minusa, aunque tengo la confianza de ir a hablarle estaria bueno no perder ese aura(autoestima) en el caso de que no te de bola. El mes pasado tuve el XV de una prima y en el habia semejante rubia que se me hacia imposible no devorar, al se eso de las 4AM, la maquina activa y va a dar el paso, a la maquina le sale todo bien y se come a la susodicha, pero que hubiera pasado si no le salia a la maquina? una branch ayudaria mucho ya que vas, chamuyas y si sale bien te quedas pero sino volves antes de actuar.
+/ Branches: Claramente es el hablarle a una minusa, aunque tengo la confianza de ir a hablarle estaria bueno no perder ese aura(autoestima) en el caso de que no te de bola. El mes pasado tuve el XV de una prima y en el habia semejante rubia que se me hacia imposible no devorar, a eso de las 4AM, la maquina activa y va a dar el paso, a la maquina le sale todo bien y se come a la susodicha, pero que hubiera pasado si no le salia a la maquina? una branch ayudaria mucho ya que vas, chamuyas y si sale bien te quedas pero sino volves antes de actuar.
 
 / Colaboración remota: la principal ventaja es que no importa en que parte del mundo estes, mientras tengas lo basico para conectarte a GitHub vas a poder trabajar con tus compañeros. Si vas a trabajar con personas de distintos paises el desafio podria recaer en la barrera del lenguaje y vas a tener que adaptarte al que se prefiera hablar(siendo el ingles por excelencia).
 No se si es mejor trabajar de este modo ya que hay un estudio en el que se detalla el proque el trabajador prefiere estar en una oficina que estar en su casa con todas las distracciones el estar en ella, pero por comodidad diria que es mas factible.
 
 / Resolución de conflictos: como habilidad tecnica deberia de entender como funciona Git en su completitud, el correcto uso de sus herramientas y una buena practica de "versionado". Como habilidad personal necesitaria una comunicacion clara en el equipo, ser empatico ya que alguno puede tener soluciones validas y ser responsable con el trabajo y con el equipo.
+
+
+REFLEXIÓN PERSONAL
+
+/ Portafolio digital: En mi portafolio me gustaria tener trabajos de webs que hice para algunas empresas con sus respectivos prototipados o algun proyecto de ciberseguridad ya que me llama bastante el tema. Yo creo que esto podria ser muy favorble para mis oportunidades laborales ya que el reclutador podria ver mis proyectos anteriores y en base a eso formular una respuesta de cooperación.
