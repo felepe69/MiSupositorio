@@ -27,3 +27,7 @@ No se si es mejor trabajar de este modo ya que hay un estudio en el que se detal
 REFLEXIÓN PERSONAL
 
 / Portafolio digital: En mi portafolio me gustaria tener trabajos de webs que hice para algunas empresas con sus respectivos prototipados o algun proyecto de ciberseguridad ya que me llama bastante el tema. Yo creo que esto podria ser muy favorble para mis oportunidades laborales ya que el reclutador podria ver mis proyectos anteriores y en base a eso formular una respuesta de cooperación.
+
+/ CÓDIGO ABIERTO: En beneficios veo que, como al ser de codigo abierto, gente con mas conocimientos en el sector podria ayudarte con tu proyecto aportabdo sus saberes, mientras que, como riesgo puede ser el que se puedan apropiar de tu codigo si no podes probar que es tuyo desde una primer instacia.
+
+/ HISTRIAL DE CAMBIOS: 
