@@ -1,4 +1,5 @@
 # actividad-git-github
+
 CONCEPTOS FUNDAMENTALES
 
 / Control de versiones: para manejarlas distintas versiones de mis trabajos siempre tenia una version anterior funcional del actual, ya que de darse el caso de que mientras trabajo en el actual falle de cualquier manera tenia mi version anterior de respaldo.
@@ -11,3 +12,10 @@ Hace como 2 semanas Gauna nos dejo como actividad el hacer una plantilla de calc
 / Diferencia Git vs GitHub: Git es un software de control de versiones que te permite volver a versiones previas de lo que se este trabajando dejandote con la tranquilidad de que todo esta seguro en esos mismos respaldos.
 GitHub es una red social donde desarolladores de todo tipo colaboran compartiendo su codigo o tambien sirve como medio para exponer tus trabajos usando esta red mas como un portafolio para que los demas puedan ver de que sos capaz.
 Si, podria, ya que Git es un sistema que se ejecuta de manera local en tu computadora mientras que GitHub es solo la nube donde vas a alojar tus repositorios Git.
+
+
+APLICACIÓN PRÁCTICA
+
+/ Branches: Claramente es el hablarle a una minusa, aunque tengo la confianza de ir a hablarle estaria bueno no perder ese aura(autoestima) en el caso de que no te de bola. El mes pasado tuve el XV de una prima y en el habia semejante rubia que se me hacia imposible no devorar, al se eso de las 4AM, la maquina activa y va a dar el paso, a la maquina le sale todo bien y se come a la susodicha, pero que hubiera pasado si no le salia a la maquina? una branch ayudaria mucho ya que vas, chamuyas y si sale bien te quedas pero sino volves antes de actuar.
+
+/ Colaboración remota: 
