@@ -26,8 +26,17 @@ No se si es mejor trabajar de este modo ya que hay un estudio en el que se detal
 
 REFLEXIÓN PERSONAL
 
-/ Portafolio digital: En mi portafolio me gustaria tener trabajos de webs que hice para algunas empresas con sus respectivos prototipados o algun proyecto de ciberseguridad ya que me llama bastante el tema. Yo creo que esto podria ser muy favorble para mis oportunidades laborales ya que el reclutador podria ver mis proyectos anteriores y en base a eso formular una respuesta de cooperación.
+/ Portafolio digital: en mi portafolio me gustaria tener trabajos de webs que hice para algunas empresas con sus respectivos prototipados o algun proyecto de ciberseguridad ya que me llama bastante el tema. Yo creo que esto podria ser muy favorble para mis oportunidades laborales ya que el reclutador podria ver mis proyectos anteriores y en base a eso formular una respuesta de cooperación.
 
-/ CÓDIGO ABIERTO: En beneficios veo que, como al ser de codigo abierto, gente con mas conocimientos en el sector podria ayudarte con tu proyecto aportabdo sus saberes, mientras que, como riesgo puede ser el que se puedan apropiar de tu codigo si no podes probar que es tuyo desde una primer instacia.
+/ CÓDIGO ABIERTO: en beneficios veo que, como al ser de codigo abierto, gente con mas conocimientos en el sector podria ayudarte con tu proyecto aportabdo sus saberes, mientras que, como riesgo puede ser el que se puedan apropiar de tu codigo si no podes probar que es tuyo desde una primer instacia.
 
-/ HISTRIAL DE CAMBIOS: 
+/ HISTRIAL DE CAMBIOS: esto afecta a la responsabilidad ya que no vas a poder excusarte o echarle la culpa a alguien mas ya que esta el registro de cambios de git, esto puede generar una presion adicional al cometer un error ya que tu jefe puede ver tus errores o aportes al trabajo en cierto lapso de tiempo.
+
+
+PENSAMIENTO CRÍTICO
+
+/ Errores y Reversión: esto fomenta a la experimentacion ya que tenes la libertad de probar funciones con la certeza de que el proyecto no se va a estropear y en el caso de que pase podrias volver a una version anterior funcional del mismo.
+
+/ Documentación vs Código: sostengo esa opinion, demasiada documentacion se puede hacer demasiado tedioso para el que tenga que entender los cambios realizados(a no ser que sea neceario hacer una documentacion extensa) ya que el codigo debe de ser ituitivo ya sea por las variables descriptivas o que veas una funcion y entiendas enseguida que es lo que hace, ese codigo ya te dice que es lo que hace, aliviando el contenido de la documentacion.
+
+/ Dependencia de plataformas: 
