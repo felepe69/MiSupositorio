@@ -44,4 +44,19 @@ PENSAMIENTO CRÍTICO
 
 PROYECCIÓN FUTURA
 
-/ Integración con tu flujo de trabajo: 
+/ Integración con tu flujo de trabajo: para integrar Git y GitHub en mi flujo de trabajo lo haria de la siguiente manera.
+      1. Crear un repositorio en GitHub con su respectivo README.md para explicar el proyecto en el.
+      2. Defino las tareas a relizar antes de arrancar a trabajar.
+      3. Al definir las tareas arranco creando una rama para cada tarea establecida para mas comodidad al trabajar. Mientras trabajo en las branchs voy haciendo commits descriptivos de lo que se esta                 haciendo.
+      4. Cuando termino una tarea hago una Pull Request, verifico que todo este bien y si esta todo correcto hago un Merge a la branch principal.
+      5. En algun momento importante del desarollo del trabajo creo versiones del programa como betas funcionales del mismo para su prueba.
+      6. Al finalizar el trabajo y antes de entregar verifico que el codigo en su completitud este bien y que el README.md describa con presicion la funcionalidad y la manera de usar el programa a entregar.          Cuando termino las verificaciones subo la version final a GitHub y envio el link del repositorio.
+      7. En el caso de que halla errores o preferencias en la version final entregada, los soluciono y vuelvo a entregar. Como final definitivo me guardo todo este trabajo en mi portafolio personal de                GitHub para futuros trabajos.
+
+/ Aprendizaje continuo: Funciones como Dependabot o code scanning ayudan a detectar vulnerabilidades automáticamente. Esto es cada vez más importante en el desarrollo profesional. Para continuar mi aprendizaje haria lo siguiente:
+    #Crear proyectos reales y profesionales.
+    #Contribuir en proyectos de codigo abierto.
+    #Leer documentacion oficial.
+    #Seguir a desarolladores y sus proyectos.
+
+/ Impacto en tu carrera: dominar Git y GitHub a la hora de conseguir alguna oferta profesional me veneficiaria bastante ya que podrian ver mi portafolio personal y ver de lo que soy capaz. Para ser un profesional mas completo deberia de dominar Git y GitHub por completo y mas habilidades sobre programacion, ya sean lenguajes como python, C++ y un mejor criterio tecnico en trabajos o proyectos en los que participe.
